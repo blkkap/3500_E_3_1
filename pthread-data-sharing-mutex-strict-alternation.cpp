@@ -1,5 +1,4 @@
-//Jaidan Dovala
-//C3500
+
 //6 April 2022
 //working with pthreads strict alternation
 
